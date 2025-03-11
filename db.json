@@ -1,0 +1,38 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "Tchagnim ",
+      "adresseMail": "tchagnim@gmail.com",
+      "motDePasse": "1234567",
+      "motDePasseConfirmation": "1234567",
+      "id": 1
+    },
+    {
+      "nomUtilisateur": "greali",
+      "adresseMail": "gre@gmail.com",
+      "motDePasse": "1234567",
+      "motDePasseConfirmation": "1234567",
+      "id": 2
+    }
+  ],
+  "publications": [
+    {
+      "commentaire": "hgagdgfx",
+      "cheminImage": "https://img.freepik.com/photos-gratuite/vue-face-femme-s-entrainant-maison_23-2150404923.jpg?t=st=1741690829~exp=1741694429~hmac=d8978e0a75141589ce18e10456b0e7cae043fc9edd7860ff44f20f63aa4beab2&w=1800",
+      "idUtilisateur": 9,
+      "datePublication": "2025-03-11T11:01:10.680Z",
+      "likePublication": 0,
+      "auteur": "ALI gregoire",
+      "id": 1
+    },
+    {
+      "commentaire": "caxAX",
+      "cheminImage": "https://img.freepik.com/photos-gratuite/vue-face-femme-s-entrainant-maison_23-2150404924.jpg?t=st=1741691113~exp=1741694713~hmac=9f656ded7b6fa37090086c5f31b3a3e880eb7380de3078eb4f4e3dd34ca55bb6&w=1800",
+      "idUtilisateur": 2,
+      "datePublication": "2025-03-11T11:05:26.484Z",
+      "likePublication": 0,
+      "auteur": "greali",
+      "id": 2
+    }
+  ]
+}
